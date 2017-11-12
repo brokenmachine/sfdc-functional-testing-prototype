@@ -1,59 +1,29 @@
 var assert = require('assert');
-var loremIpsum = require('lorem-ipsum');
+var loginPage = require('../pages/loginPage');
+var chatterPage = require('../pages/lightningChatterPage');
 
-// TODO: put login steps in the setup/teardown or in a base class
+
 describe('Login', function () {
     it('should let the user log in', function () {
-        // navigate to the login page and log as in my dummy user
-        // TODO: research best way to store this as config
-        browser.url('/');
-        browser.setValue('input#username', 'stigmatamartyr@icloud.com');
-        browser.setValue('input#password', 'thehammer1');
-        browser.click('input#Login');
+        loginPage.goto();
+        loginPage.loginToSalesforce('stigmatamartyr@icloud.com','thehammer1');
+    })
+});
 
-        // click out profile image and check for the "Log Out" link
-        var profileImageSelector = "img[title='User']";
-        var logoutLinkSelector = "a.logout";
-        var profileButtonSelector = "button.oneUserProfileCardTrigger";
-        browser.waitForExist(profileImageSelector);
-        $(profileButtonSelector).click();
-        browser.waitForExist(logoutLinkSelector,5000);
+
+describe('Chatter', function () {
+    it('should let the user post and delete a Chatter post', function () {
+        chatterPage.goto();
+        chatterPage.createAndDeleteChatterPost();
     })
 });
 
 describe('Chatter', function () {
-    it('should let the user post and delete a Chatter post', function () {
-        // navigate to the Chatter app
-        var chatterLinkSelector = "a[title='Chatter']";
-        var shareAnUpdateDummyButtonSelector = "button.dummyButtonCallToAction";
-        var chatterTextEditorSelector = "div.ql-editor[contenteditable='true']";
-        var chatterPostActionButtonSelector = "a.cuf-feedItemActionTrigger";
-        var confirmPostDeleteModalButtonSelector = "div.forceModalActionContainer button.forceActionButton[title='Delete']";
-
-        // click the "Chatter" link and wait for the "Share an update.." to show up
-        $(chatterLinkSelector).click();
-        browser.waitForExist(shareAnUpdateDummyButtonSelector);
-
-        // click "Share an update" and wait for the text editor to render and click on it
-        $(shareAnUpdateDummyButtonSelector).click();
-        browser.waitForExist(chatterTextEditorSelector);
-        $(chatterTextEditorSelector).click();
-
-        // type in some lorem ipsum text and submit
-        $("div.ql-editor[contenteditable='true'] > p").setValue(loremIpsum());
-        $("button.cuf-publisherShareButton").click();
-
-        // now delete the post
-        // TODO: this just grabs the first Delete button we see, but really we would want to get some kind of ID back from the submit and store it to check against or find in the DOM
-        browser.waitForExist(chatterPostActionButtonSelector);
-        $(chatterPostActionButtonSelector).click();
-        browser.waitForExist("a[title='Delete']");
-        $("a[title='Delete']").click();
-        browser.waitForExist(confirmPostDeleteModalButtonSelector);
-        $(confirmPostDeleteModalButtonSelector).click();
+    it('should let the user post a question to Chatter', function () {
+        //chatterPage.goto();
+        chatterPage.createChatterQuestion("How many Lowes would Rob Lowe rob if Rob Lowe could rob Lowes?","Lowes is a hardware store. Rob Lowe is an actor.");
     })
 });
-
 
 /*
 NOTES:

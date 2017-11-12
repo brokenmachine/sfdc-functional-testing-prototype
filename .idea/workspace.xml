@@ -14,31 +14,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wdio.conf.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/wdio.conf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lightning-tests.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lightning-tests.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json">
+      <file leaf-file-name="lightningChatterPage.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningChatterPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state relative-caret-position="436">
+              <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lightningBasePage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningBasePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/loginPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -50,6 +60,24 @@
     <findStrings>
       <find>baseU</find>
       <find>mochaOp</find>
+      <find>wait</find>
+      <find>button.dummyButtonCallToAction</find>
+      <find>click</find>
+      <find>console</find>
+      <find>chatterQuestionTabLinkSelector</find>
+      <find>baseP</find>
+      <find>chatterQuestionActionButtonSelector</find>
+      <find>chatterQuestionActionButtonSelectorchatterQuestionActionButtonSelector</find>
+      <find>saveButt</find>
+      <find>shareAnUpdateDummyButtonSelector</find>
+      <find>chatterTextEditorSelector</find>
+      <find>chatterPostActionButtonSelector</find>
+      <find>confirmPostDeleteModalButtonSelectorconfirmPostDeleteModalButtonSelector</find>
+      <find>confirmPostDeleteModalButtonSelector</find>
+      <find>chatterLinkSelector</find>
+      <find>Del</find>
+      <find>chatterSaveButtonSelector</find>
+      <find>chatterDetailsTextEditorSelector</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -61,7 +89,11 @@
         <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json" />
         <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah" />
         <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah.html" />
+        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningHomePage.js" />
+        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/loginPage.js" />
         <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js" />
+        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningBasePage.js" />
+        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningChatterPage.js" />
       </list>
     </option>
   </component>
@@ -84,8 +116,8 @@
     <handled-path value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="38" />
+    <option name="x" value="13" />
+    <option name="y" value="36" />
     <option name="width" value="1260" />
     <option name="height" value="737" />
   </component>
@@ -97,19 +129,34 @@
             <id />
           </State>
           <State>
-            <id>CSS</id>
+            <id>Code style issuesJavaScript</id>
           </State>
           <State>
-            <id>Code quality toolsCSS</id>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
           </State>
           <State>
             <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JSON</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
             <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
           </State>
         </expanded-state>
       </profile-state>
@@ -142,6 +189,11 @@
             <path>
               <item name="sfdc-functional-testing-prototype" type="b2602c69:ProjectViewProjectNode" />
               <item name="sfdc-functional-testing-prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sfdc-functional-testing-prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sfdc-functional-testing-prototype" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -151,12 +203,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.12.0/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="settings.editor.splitter.proportion" value="0.24681684" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.12.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,7 +262,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510275394326</updated>
-      <workItem from="1510275395825" duration="22279000" />
+      <workItem from="1510275395825" duration="39695000" />
     </task>
     <servers />
   </component>
@@ -213,12 +272,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22279000" />
+    <option name="totallyTimeSpent" value="39695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="38" width="1260" height="737" extended-state="0" />
+    <frame x="13" y="36" width="1260" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24603175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24603175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -248,26 +308,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="125" selection-end-line="0" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/wdio.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -280,10 +324,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningHomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/wdio.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/loginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state relative-caret-position="330">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningBasePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningChatterPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
           <folding />
         </state>
       </provider>

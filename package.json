@@ -14,5 +14,9 @@
     "wdio-selenium-standalone-service": "0.0.9",
     "wdio-spec-reporter": "^0.1.2",
     "webdriverio": "^4.9.6"
+  },
+  "dependencies": {
+    "loglevel": "^1.5.1",
+    "lorem-ipsum": "^1.0.4"
   }
 }

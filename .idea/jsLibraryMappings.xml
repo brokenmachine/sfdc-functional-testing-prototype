@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{mocha-DefinitelyTyped, webdriverio-DefinitelyTyped}" />
+    <file url="PROJECT" libraries="{loglevel-DefinitelyTyped, mocha-DefinitelyTyped, webdriverio-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
