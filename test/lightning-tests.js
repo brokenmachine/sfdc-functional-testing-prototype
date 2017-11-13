@@ -1,15 +1,17 @@
 var assert = require('assert');
 var loginPage = require('../pages/loginPage');
 var chatterPage = require('../pages/lightningChatterPage');
+var casesListPage = require('../pages/lightningCaseListPage');
 
+var navigator = require('../navigation/lightningNavigator');
 
 describe('Login', function () {
     it('should let the user log in', function () {
         loginPage.goto();
         loginPage.loginToSalesforce('stigmatamartyr@icloud.com','thehammer1');
+        assert(loginPage.userIsLoggedIn(),"User login failed");
     })
 });
-
 
 describe('Chatter', function () {
     it('should let the user post and delete a Chatter post', function () {
@@ -20,10 +22,17 @@ describe('Chatter', function () {
 
 describe('Chatter', function () {
     it('should let the user post a question to Chatter', function () {
-        //chatterPage.goto();
         chatterPage.createChatterQuestion("How many Lowes would Rob Lowe rob if Rob Lowe could rob Lowes?","Lowes is a hardware store. Rob Lowe is an actor.");
     })
 });
+
+describe('Cases', function () {
+    it('can view most recent cases from Cases tab', function () {
+        navigator.navigateTo("Service","Cases");
+        assert(casesListPage.isReady());
+    })
+});
+
 
 /*
 NOTES:

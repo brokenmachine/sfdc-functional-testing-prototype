@@ -18,6 +18,7 @@ var loginPage = Object.create(basePage, {
     }},
 
     userIsLoggedIn: { value: function() {
+        // make sure the user is logged in by checking the if the logout link is there
         var profileImageSelector = "img[title='User']";
         var logoutLinkSelector = "a.logout";
         var profileButtonSelector = "button.oneUserProfileCardTrigger";
