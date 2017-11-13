@@ -163,8 +163,12 @@ exports.config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      * @param {Array.<String>} specs List of spec file paths that are to be run
      */
-    // before: function (capabilities, specs) {
-    // },
+     before: function (capabilities, specs) {
+        // since you have to be logged in to do anything, log in before anything else
+        var loginPage = require('./pages/loginPage.js');
+        loginPage.goto();
+        loginPage.loginToSalesforce('stigmatamartyr@icloud.com','thehammer1');
+     },
     /**
      * Runs before a WebdriverIO command gets executed.
      * @param {String} commandName hook command name
@@ -226,8 +230,11 @@ exports.config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      * @param {Array.<String>} specs List of spec file paths that ran
      */
-    // after: function (result, capabilities, specs) {
-    // },
+     after: function (result, capabilities, specs) {
+         // log out of Salesforce after the tests have run
+        var navigator = require('./navigation/lightningNavigator.js');
+        navigator.logout();
+     }
     /**
      * Gets executed right after terminating the webdriver session.
      * @param {Object} config wdio configuration object

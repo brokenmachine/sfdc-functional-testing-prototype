@@ -7,8 +7,7 @@ var navigator = require('../navigation/lightningNavigator');
 
 describe('Login', function () {
     it('should let the user log in', function () {
-        loginPage.goto();
-        loginPage.loginToSalesforce('stigmatamartyr@icloud.com','thehammer1');
+        // the user should be already logged in from the before method in wdio.conf.js
         assert(loginPage.userIsLoggedIn(),"User login failed");
     })
 });

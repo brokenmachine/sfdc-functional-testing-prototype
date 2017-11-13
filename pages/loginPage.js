@@ -1,4 +1,10 @@
 var basePage = require('./lightningBasePage');
+var profileImageSelector = "img[title='User']";
+var logoutLinkSelector = "a.logout";
+var profileButtonSelector = "button.oneUserProfileCardTrigger";
+var userNameInputSelector = "input#username";
+var passwordInputSelector = "input#password";
+
 var loginPage = Object.create(basePage, {
 
     // required for navigation methods (eg. page.goto())
@@ -12,19 +18,16 @@ var loginPage = Object.create(basePage, {
     }},
 
     loginToSalesforce: { value: function(username, password) {
-        browser.setValue('input#username', username);
-        browser.setValue('input#password', password);
+        browser.setValue(userNameInputSelector, username);
+        browser.setValue(passwordInputSelector, password);
         browser.click('input#Login');
     }},
 
     userIsLoggedIn: { value: function() {
         // make sure the user is logged in by checking the if the logout link is there
-        var profileImageSelector = "img[title='User']";
-        var logoutLinkSelector = "a.logout";
-        var profileButtonSelector = "button.oneUserProfileCardTrigger";
         browser.waitForExist(profileImageSelector);
         $(profileButtonSelector).click();
-        return browser.waitForExist(logoutLinkSelector,5000);
+        return browser.waitForExist(logoutLinkSelector);
     }}
 
 });
