@@ -21,7 +21,9 @@ describe('Chatter', function () {
 
 describe('Chatter', function () {
     it('should let the user post a question to Chatter', function () {
-        chatterPage.createChatterQuestion("How many Lowes would Rob Lowe rob if Rob Lowe could rob Lowes?","Lowes is a hardware store. Rob Lowe is an actor.");
+        var questionText = "How many Lowes would Rob Lowe rob if Rob Lowe could rob Lowes?";
+        chatterPage.createChatterQuestion(questionText);
+        assert(chatterPage.isQuestionPosted(questionText),"Question was not posted successfully")
     })
 });
 

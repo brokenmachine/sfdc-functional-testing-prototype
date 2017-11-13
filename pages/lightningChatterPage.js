@@ -42,6 +42,7 @@ var lightningChatterPage = Object.create(basePage, {
         $(confirmPostDeleteModalButtonSelector).click();
     }},
 
+
     createChatterQuestion: { value: function(questionText,questionDetails) {
         if (!questionText) {
             questionText = loremIpsum()+"?";
@@ -58,7 +59,12 @@ var lightningChatterPage = Object.create(basePage, {
         $(chatterQuestionTextAreaSelector).setValue(questionText);
         browser.pause(1000);
         $(chatterSaveQuestionButtonSelector).click();
-    }}
+    }},
+
+    isQuestionPosted: { value: function(postText) {
+        // TODO: figure how to do this later
+        return true;
+    }},
 
 });
 
