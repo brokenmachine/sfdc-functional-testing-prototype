@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "wdio"
+    "test": "wdio --suite smokeTests wdio.conf.js; wdio --suite chatter wdio.conf.js; wdio --suite cases wdio.conf.js;"
   },
   "keywords": [],
   "author": "",
@@ -12,7 +12,6 @@
   "devDependencies": {
     "wdio-mocha-framework": "^0.5.11",
     "wdio-selenium-standalone-service": "0.0.9",
-    "wdio-spec-reporter": "^0.1.2",
     "webdriverio": "^4.9.6"
   },
   "dependencies": {

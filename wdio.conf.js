@@ -16,6 +16,17 @@ exports.config = {
     exclude: [
         // 'path/to/excluded/files'
     ],
+    suites: {
+        smokeTests: [
+            './test/specs/smoke-tests.spec.js'
+        ],
+        chatter: [
+            './test/specs/chatter.spec.js'
+        ],
+        cases: [
+            './test/specs/cases.spec.js'
+        ]
+    },
     //
     // ============
     // Capabilities
@@ -124,7 +135,7 @@ exports.config = {
     // Test reporter for stdout.
     // The only one supported by default is 'dot'
     // see also: http://webdriver.io/guide/reporters/dot.html
-    reporters: ['spec'],
+    reporters: ['dot'],
     
     //
     // Options to be passed to Mocha.
@@ -251,4 +262,4 @@ exports.config = {
      */
     // onComplete: function(exitCode, config, capabilities) {
     // }
-}
+};

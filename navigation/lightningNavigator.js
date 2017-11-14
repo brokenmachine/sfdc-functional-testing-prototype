@@ -3,6 +3,7 @@ var profileImageSelector = "img[title='User']";
 var logoutLinkSelector = "a.logout";
 var profileButtonSelector = "button.oneUserProfileCardTrigger";
 var userNameInputSelector = "input#username";
+var homePage = require('../pages/lightningHomePage');
 
 var LightningNavigator = function() {
     /**
@@ -15,6 +16,7 @@ var LightningNavigator = function() {
             throw "LightningNavigator.navigateTo - must specify the applicationName parameter";
         };
 
+        browser.waitForExist(appLauncherLinkSelector);
         $(appLauncherLinkSelector).click(); // app launcher
         var appSelector = "div.appTileTitle[title='"+applicationName+"']";
         browser.waitForExist(appSelector);

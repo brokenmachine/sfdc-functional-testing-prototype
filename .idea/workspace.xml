@@ -1,7 +1,289 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21012699-ac13-4f7b-b1d4-43194555d47f" name="Default" comment="" />
+    <list default="true" id="21012699-ac13-4f7b-b1d4-43194555d47f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/errorShots/ERROR_firefox_2017-11-13T21-37-07.678Z.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/humanize-duration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/humanize-duration/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/.istanbul.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/build/reporter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/lib/reporter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/copy-within.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/entries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/every.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/fill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/find-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/find.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/for-each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/from.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/includes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/index-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/join.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/last-index-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/pop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/reduce-right.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/reduce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/reverse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/shift.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/some.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/sort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/splice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/unshift.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/array/values.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/asap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/clear-immediate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/error/is-error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/get-iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/is-iterable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/json/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/acosh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/asinh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/atanh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/cbrt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/clz32.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/cosh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/expm1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/fround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/hypot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/iaddh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/imul.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/imulh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/isubh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/log10.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/log1p.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/log2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/sign.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/sinh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/tanh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/trunc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/math/umulh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/epsilon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/is-finite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/is-integer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/is-nan.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/is-safe-integer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/max-safe-integer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/min-safe-integer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/parse-float.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/number/parse-int.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/assign.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/define-properties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/define-property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/entries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/freeze.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/get-own-property-descriptor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/get-own-property-descriptors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/get-own-property-names.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/get-own-property-symbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/get-prototype-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/is-extensible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/is-frozen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/is-sealed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/prevent-extensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/seal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/set-prototype-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/object/values.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/observable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/apply.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/construct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/define-metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/define-property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/delete-metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/delete-property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/enumerate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get-metadata-keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get-metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get-own-metadata-keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get-own-metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get-own-property-descriptor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get-prototype-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/get.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/has-metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/has-own-metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/has.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/is-extensible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/own-keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/prevent-extensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/set-prototype-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/reflect/set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/regexp/escape.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/set-immediate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/code-point-at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/ends-with.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/from-code-point.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/includes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/match-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/pad-end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/pad-left.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/pad-right.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/pad-start.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/raw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/repeat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/starts-with.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/trim-end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/trim-left.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/trim-right.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/trim-start.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/string/trim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/async-iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/for.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/has-instance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/is-concat-spreadable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/key-for.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/match.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/observable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/replace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/species.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/split.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/to-primitive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/to-string-tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/symbol/unscopables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/system/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/weak-map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/core-js/weak-set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_async-generator-delegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_async-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_async-iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_async-to-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_class-call-check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_create-class.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_define-enumerable-properties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_define-property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_extends.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_get.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_instanceof.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_interop-require-default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_interop-require-wildcard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_jsx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_new-arrow-check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_object-destructuring-empty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_object-without-properties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_possible-constructor-return.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_self-global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_sliced-to-array-loose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_sliced-to-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_tagged-template-literal-loose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_tagged-template-literal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_temporal-ref.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_temporal-undefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_to-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_to-consumable-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/_typeof.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/async-generator-delegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/async-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/async-iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/async-to-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/asyncGenerator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/asyncGeneratorDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/asyncIterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/asyncToGenerator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/class-call-check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/classCallCheck.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/create-class.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/createClass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/define-enumerable-properties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/define-property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/defineEnumerableProperties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/defineProperty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/extends.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/get.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/instanceof.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/interop-require-default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/interop-require-wildcard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/interopRequireDefault.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/interopRequireWildcard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/jsx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/new-arrow-check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/newArrowCheck.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/object-destructuring-empty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/object-without-properties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/objectDestructuringEmpty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/objectWithoutProperties.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/possible-constructor-return.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/possibleConstructorReturn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/self-global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/selfGlobal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/sliced-to-array-loose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/sliced-to-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/slicedToArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/slicedToArrayLoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/tagged-template-literal-loose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/tagged-template-literal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/taggedTemplateLiteral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/taggedTemplateLiteralLoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/temporal-ref.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/temporal-undefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/temporalRef.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/temporalUndefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/to-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/to-consumable-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/toArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/toConsumableArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/helpers/typeof.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/babel-runtime/regenerator/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/regenerator-runtime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/regenerator-runtime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/regenerator-runtime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/regenerator-runtime/path.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/regenerator-runtime/runtime-module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/node_modules/regenerator-runtime/runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/test/fixtures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wdio-spec-reporter/test/reporter.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lightning-tests.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/navigation/lightningNavigator.js" afterPath="$PROJECT_DIR$/navigation/lightningNavigator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/wdio-selenium-standalone-service/package.json" afterPath="$PROJECT_DIR$/node_modules/wdio-selenium-standalone-service/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/lightningHomePage.js" afterPath="$PROJECT_DIR$/pages/lightningHomePage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/loginPage.js" afterPath="$PROJECT_DIR$/pages/loginPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wdio.conf.js" afterPath="$PROJECT_DIR$/wdio.conf.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,22 +295,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="lightning-tests.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="smoke-tests.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/specs/smoke-tests.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="95" lean-forward="false" selection-start-line="25" selection-start-column="95" selection-end-line="25" selection-end-column="95" />
+            <state relative-caret-position="75">
+              <caret line="5" column="86" lean-forward="false" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lightningChatterPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningChatterPage.js">
+      <file leaf-file-name="cases.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/specs/cases.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="64" column="44" lean-forward="false" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
+            <state relative-caret-position="135">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lightningNavigator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/navigation/lightningNavigator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lightningHomePage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/lightningHomePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wdio.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wdio.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -45,11 +367,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>baseU</find>
-      <find>mochaOp</find>
-      <find>wait</find>
-      <find>button.dummyButtonCallToAction</find>
-      <find>click</find>
       <find>chatterQuestionTabLinkSelector</find>
       <find>chatterQuestionActionButtonSelector</find>
       <find>chatterQuestionActionButtonSelectorchatterQuestionActionButtonSelector</find>
@@ -74,33 +391,46 @@
       <find>after</find>
       <find>before</find>
       <find>before:</find>
+      <find>suite</find>
+      <find>specs</find>
+      <find>specs:</find>
+      <find>spec</find>
+      <find>reporter</find>
+      <find>moveTo</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test/login.js" />
-        <option value="$PROJECT_DIR$/wdio.conf.js" />
         <option value="$PROJECT_DIR$/test/lightning-tests.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah.html" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningHomePage.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningBasePage.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/navigation/lightningNavTree.json" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/navigation/lightning-navigator.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningCaseListPage.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/navigation/lightningNavigator.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/loginPage.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/wdio.conf.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningChatterPage.js" />
-        <option value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js" />
+        <option value="$PROJECT_DIR$/test/blah" />
+        <option value="$PROJECT_DIR$/test/blah.html" />
+        <option value="$PROJECT_DIR$/pages/lightningBasePage.js" />
+        <option value="$PROJECT_DIR$/navigation/lightningNavTree.json" />
+        <option value="$PROJECT_DIR$/navigation/lightning-navigator.js" />
+        <option value="$PROJECT_DIR$/pages/lightningChatterPage.js" />
+        <option value="$PROJECT_DIR$/test/lightning-tests.js" />
+        <option value="$PROJECT_DIR$/test/specs/chatter.spec.js" />
+        <option value="$PROJECT_DIR$/test/specs/smoke-tests.spec.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/wdio.conf.js" />
+        <option value="$PROJECT_DIR$/wdio.conf.js" />
+        <option value="$PROJECT_DIR$/pages/lightningCaseListPage.js" />
+        <option value="$PROJECT_DIR$/pages/lightningHomePage.js" />
+        <option value="$PROJECT_DIR$/test/specs/cases.spec.js" />
+        <option value="$PROJECT_DIR$/pages/loginPage.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/navigation/lightningNavigator.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json" />
+    <package-json value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -114,13 +444,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/../sfdc-functional-testing-prototype/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="62" />
-    <option name="width" value="1226" />
-    <option name="height" value="701" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -163,6 +492,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -178,8 +508,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,14 +530,22 @@
               <item name="sfdc-functional-testing-prototype" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sfdc-functional-testing-prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sfdc-functional-testing-prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.12.0/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -219,8 +555,12 @@
     <property name="javascript.nodejs.core.library.configured.version" value="6.12.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/specs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,7 +587,7 @@
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/test/login.js</test-file>
     </configuration>
-    <configuration name="login.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js" working-dir="$PROJECT_DIR$/../sfdc-functional-testing-prototype/test" />
+    <configuration name="login.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/test/specs/smoke-tests.spec.js" working-dir="$PROJECT_DIR$/test" />
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Mocha.MyWebDriverIOMochaTests" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.login.js" />
@@ -268,7 +608,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510275394326</updated>
-      <workItem from="1510275395825" duration="60352000" />
+      <workItem from="1510275395825" duration="62255000" />
+      <workItem from="1510672425704" duration="6721000" />
     </task>
     <servers />
   </component>
@@ -278,28 +619,28 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60352000" />
+    <option name="totallyTimeSpent" value="68976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="62" width="1226" height="701" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25285482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -314,31 +655,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="125" selection-end-line="0" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/blah.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/navigation/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/test/specs/smoke-tests.spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -346,74 +663,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/navigation/lightningNavTree.json">
+    <entry file="file://$PROJECT_DIR$/test/specs/cases.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningCaseListPage.js">
+    <entry file="file://$PROJECT_DIR$/test/specs/chatter.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="62" lean-forward="false" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningBasePage.js">
+    <entry file="file://$PROJECT_DIR$/wdio.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="2640">
+          <caret line="176" column="5" lean-forward="false" selection-start-line="176" selection-start-column="5" selection-end-line="176" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningHomePage.js">
+    <entry file="file://$PROJECT_DIR$/test/blah" />
+    <entry file="file://$PROJECT_DIR$/test/blah.html" />
+    <entry file="file://$PROJECT_DIR$/navigation/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/navigation/lightningNavTree.json" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/specs/chatter.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="62" lean-forward="false" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/loginPage.js">
+    <entry file="file://$PROJECT_DIR$/pages/lightningBasePage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="435">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/wdio.conf.js">
+    <entry file="file://$PROJECT_DIR$/pages/lightningCaseListPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="226" column="97" lean-forward="true" selection-start-line="226" selection-start-column="97" selection-end-line="226" selection-end-column="97" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/navigation/lightningNavigator.js">
+    <entry file="file://$PROJECT_DIR$/pages/lightningChatterPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="39" column="52" lean-forward="false" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/pages/lightningChatterPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
+        <state relative-caret-position="636">
           <caret line="64" column="44" lean-forward="false" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sfdc-functional-testing-prototype/test/lightning-tests.js">
+    <entry file="file://$PROJECT_DIR$/pages/lightningHomePage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="95" lean-forward="false" selection-start-line="25" selection-start-column="95" selection-end-line="25" selection-end-column="95" />
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/loginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="65" lean-forward="false" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/specs/smoke-tests.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="86" lean-forward="false" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdio.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/specs/cases.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/lightningNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
           <folding />
         </state>
       </provider>

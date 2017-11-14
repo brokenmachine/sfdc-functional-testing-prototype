@@ -26,8 +26,12 @@ var loginPage = Object.create(basePage, {
     userIsLoggedIn: { value: function() {
         // make sure the user is logged in by checking the if the logout link is there
         browser.waitForExist(profileImageSelector);
+        // click to reveal the card and check for the logout link
         $(profileButtonSelector).click();
-        return browser.waitForExist(logoutLinkSelector);
+        var returnVal = browser.waitForExist(logoutLinkSelector);
+        // click again to collapse the card
+        $(profileButtonSelector).click();
+        return returnVal;
     }}
 
 });
