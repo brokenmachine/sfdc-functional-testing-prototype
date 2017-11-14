@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "wdio --suite smokeTests wdio.conf.js; wdio --suite chatter wdio.conf.js; wdio --suite cases wdio.conf.js;"
+    "test": "./testSuites.sh"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +15,7 @@
     "webdriverio": "^4.9.6"
   },
   "dependencies": {
-    "loglevel": "^1.5.1",
+    "console-stamp": "^0.2.6",
     "lorem-ipsum": "^1.0.4"
   }
 }

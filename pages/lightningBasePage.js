@@ -1,5 +1,4 @@
-var log = require('loglevel');
-log.setLevel("info");
+require('console-stamp')(console, { pattern: 'dd/mm/yyyy HH:MM:ss.l' });
 
 var LightningBasePage = function() {
     /**
@@ -28,7 +27,7 @@ var LightningBasePage = function() {
      */
     this.loaded = function() {
         var that = this;
-        log.info("Loading "+that.pageName);
+        console.info("Loading "+that.pageName);
         return browser.waitUntil(function() {
             return that.isReady();
         });
